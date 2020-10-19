@@ -1,6 +1,6 @@
 <?php
 
-	// Include Database class here.
+	include_once("class_DB.php");
 
 	// Bitcoin wallet
 
